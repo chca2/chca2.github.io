@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-30-n8n-intro-and-credentials
+title: N8n 入门：基础配置与凭证管理
 date: 2025-06-30 15:30:00 -0400
 categories:
   - 入门
@@ -12,7 +12,7 @@ tags:
 ---
 ---
 layout: post
-title: "2025-06-30-n8n-intro-and-credentials"
+title: "N8n 入门：基础配置与凭证管理"
 date: 2025-06-30 15:30:00 -0400
 categories: [n8n, 自动化, 教程]
 tags: [n8n, 配置, 凭证, Docker, 入门]
